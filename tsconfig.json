@@ -3,6 +3,14 @@
     "module": "commonjs",
     "sourceMap": true,
     //  If a file changes, the compiler is automatically activated
-    "watch": true
-  }
+    "watch": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
 }
