@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    //  If a file changes, the compiler is automatically activated
+    "watch": true
+  }
+}

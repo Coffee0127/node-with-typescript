@@ -1,0 +1,22 @@
+{
+  "name": "node-with-typescript",
+  "version": "1.0.0",
+  "description": "1. [NodeJS](http://www.nodejs.org/) 2. TypeScript   type `npm install typescript -g` in the terminal 3. [Visual Studio Code](http://code.visualstudio.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coffee0127/node-with-typescript.git"
+  },
+  "author": "Xuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coffee0127/node-with-typescript/issues"
+  },
+  "homepage": "https://github.com/Coffee0127/node-with-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.4"
+  }
+}
