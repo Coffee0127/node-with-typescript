@@ -24,3 +24,5 @@ create `tsconfig.json` file
 
 ### Reference
 * [Visual Studio Code: Node.js with TypeScript and Debugging](http://www.cross-platform-blog.com/tools/nodejs/typescript/visual-studio-code-nodejs-with-typescript-and-debugging/)
+* [tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+* [从JavaScript迁移到TypeScript](https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/tutorials/Migrating%20from%20JavaScript.html)
